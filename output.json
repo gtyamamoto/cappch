@@ -1,0 +1,106 @@
+{
+	"undefined": [
+		{
+			"fullname": "John Doe 1",
+			"eid": "1234",
+			"class": [
+				"Sala 1",
+				"Sala 2",
+				"Sala 3"
+			],
+			"email responsável, pai": "johndoepai1@gmail.com :)",
+			"phone pai": "11 22221",
+			"phone responsável, mãe": "(11) 38839332",
+			"email mãe": "johndoemae1@gmail.com",
+			"email aluno": "johndoealuno1@gmail.com",
+			"phone aluno": "hahaha",
+			"invisible": "1",
+			"see_all": "",
+			"addresses": [
+				{
+					"type": "phone",
+					"tags": [
+						"Responsável",
+						"Mãe"
+					],
+					"address": 1138839387
+				}
+			]
+		},
+		{
+			"fullname": "John Doe 1",
+			"eid": "1234",
+			"class": [
+				"Sala 4",
+				"Sala 5",
+				"Sala 6"
+			],
+			"email responsável, pai": "johndoepai2@gmail.com/johndoepai3@gmail.com",
+			"phone pai": "19 985504400",
+			"phone responsável, mãe": "(11) 38839333",
+			"email mãe": "11 983340440",
+			"email aluno": "",
+			"phone aluno": "",
+			"invisible": "",
+			"see_all": "yes",
+			"addresses": [
+				{
+					"type": "phone",
+					"tags": [
+						"Pai"
+					],
+					"address": 19985504455
+				},
+				{
+					"type": "phone",
+					"tags": [
+						"Responsável",
+						"Mãe"
+					],
+					"address": 1138839388
+				}
+			]
+		},
+		{
+			"fullname": "Mary Doe 2",
+			"eid": "1235",
+			"class": [
+				"Sala 1"
+			],
+			"email responsável, pai": "marydoe1@gmail.com",
+			"phone pai": "",
+			"phone responsável, mãe": "(11) 98334228",
+			"email mãe": "",
+			"email aluno": "",
+			"phone aluno": "",
+			"invisible": "0",
+			"see_all": "no",
+			"addresses": []
+		},
+		{
+			"fullname": "Victor Doe 3",
+			"eid": "1236",
+			"class": [
+				"Sala 6",
+				"Sala 7"
+			],
+			"email responsável, pai": "victordoepai1@hotmail.com",
+			"phone pai": "",
+			"phone responsável, mãe": "",
+			"email mãe": "victordoe3@gmail.com",
+			"email aluno": "victordoe3@gmail.com",
+			"phone aluno": "19 74430033",
+			"invisible": "",
+			"see_all": "",
+			"addresses": [
+				{
+					"type": "phone",
+					"tags": [
+						"Aluno"
+					],
+					"address": 1974430088
+				}
+			]
+		}
+	]
+}
